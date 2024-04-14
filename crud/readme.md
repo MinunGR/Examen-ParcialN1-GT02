@@ -1,6 +1,6 @@
 # DAW135- Examen Parcial 1 - GT02 ![GitHub Org's stars](https://img.shields.io/github/stars/MinunGR?style=social)
 <p align="center">
-  <img src="https://revistas.ues.edu.sv/public/site/images/ernestocruz/uij3.png" alt="LogoUes" width="30%" height="50%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Escudo_de_la_Universidad_de_El_Salvador.svg/1200px-Escudo_de_la_Universidad_de_El_Salvador.svg.png" alt="LogoUes" width="30%" height="50%">
 </p>
 
 # Nombre del Proyecto
