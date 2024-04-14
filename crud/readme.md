@@ -43,9 +43,9 @@ git clone https://github.com/MinunGR/Examen-ParcialN1-GT02.git
 ## :busts_in_silhouette:Autores del proyecto:
 - Fernando José Barraza Álvarez  
   **BA22025**
-- Carlos Guillermo Ortiz Abarca 
+- Carlos Guillermo Ortiz Abarca  
   **OA21013**
-- David Salomón Martínez Valladares 
+- David Salomón Martínez Valladares  
   **MV12013**
 
   
