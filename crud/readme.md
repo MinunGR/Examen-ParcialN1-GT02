@@ -3,9 +3,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Escudo_de_la_Universidad_de_El_Salvador.svg/1200px-Escudo_de_la_Universidad_de_El_Salvador.svg.png" alt="LogoUes" width="30%" height="50%">
 </p>
 
-# Nombre del Proyecto
+# Resolución Examen Parcial #1 DAW
 
-Breve descripción del proyecto aquí.
+Proyecto realizado tomando como base la práctica realizada en el video de la semana #3, esto incluye un **CRUD** completo con **Maven**, dockerización y gestión del repositorio en **Git**.
 
 ## :heavy_check_mark:Tecnología utilizada:
 - Java Jdk 17
